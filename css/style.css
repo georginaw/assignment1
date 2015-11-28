@@ -1,24 +1,30 @@
+head {
+	margin-left: 200px;
+	margin-right: 150px;
+	background-color: #EEE;
+}
+
+body {
+	margin-left: 200px;
+	margin-right: 150px;
+	background-color: #EEE;
+}
+
 header {
 	text-align: center;
 	font-size: 20;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+h1{
+	text-align: center;
+}
+
 img {
+	margin-left: 100px;
 	border-style: solid;
 	border-width: 2px;
 	border-color: black;
-}
-
-head {
-	background-color: #EEE;
-}
-
-body {
-	background-color: #EEE;
-}
-
-h1{
-	text-align: center;
+	padding: 4px;
 }
 
